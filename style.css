@@ -307,7 +307,7 @@ header {
     }
 
     .row {
-        flex-direction: column-reverse;
+        flex-direction: column;
     }
 
     .hero .hero__text,
